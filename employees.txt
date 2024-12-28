@@ -1,0 +1,8 @@
+101,Rahim Sarker,Artist Picture,60000.0
+102,Karim Khan,Plumber,20000.0
+111,Sojib Mia,Plubmer,30000.0
+112,Md. Jubaer,Software Devoloper,50000.0
+113,Kamal Hossain,Electritian,25000.0
+114,Akash Rahman,Designer,30000.0
+120,Shila Akter,Data Analyst,22000.0
+123,Rifat Hasan,Mechanic,18000.0
