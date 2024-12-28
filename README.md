@@ -1,5 +1,5 @@
-# 🛠📋 Employee Management System(Track Employees)
-## A Python-based CLI application to manage and track employee information efficiently. 🚀
+# 📋 Employee Management System(Track Employees)
+## A Python-based CLI application to manage and track employee information efficiently. 
 
 ### Features✨
 #### 1. Add Employee ➕  
