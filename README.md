@@ -41,9 +41,9 @@ cd Cli_Interface
 python main.py
 ```
 
-For any questions or suggestions, feel free to reach out: 
-###Md. Jubaer Mahmud Sarker 
-## Contact Me
+# For any questions or suggestions, feel free to reach out: 
+### Md. Jubaer Mahmud Sarker 
+### Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jmsman3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmsman3/)
